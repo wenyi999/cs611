@@ -1,0 +1,14 @@
+---
+:id: 56854085
+:submitters:
+- :name: Boyi Song
+  :email: songboyi@bu.edu
+- :name: Jiatong Yin
+  :email: jiatongy@bu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-11-23 04:34:46.289690000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-11-22 20:34:46.289690000 Z
+:status: processed
+:score: 98.5
