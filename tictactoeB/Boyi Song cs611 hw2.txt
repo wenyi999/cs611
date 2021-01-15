@@ -1,0 +1,14 @@
+Boyi Song
+songboyi@bu.edu
+U55680925
+Main : to call the game host(a java class) to control the procedure of the game.
+GameHost : A class to decide the game type(TTT(tic tac toe) or OAC(Order and Chaos)) and start the game.
+                   You can change the type after each game, and the size of the board for TTT can be changed.
+Game : an abstract class to describe the game, can be extended to TTT and OAC.
+TicTacToe : the concrete implementation of the TTT game.
+OrderAndChaos : the concrete implementation of the OAC game.
+Tiles : describe the attribute of one cell of a game board.
+Board : a game board, contains arrays of tiles, having methods to change and access one tile.
+GameInformation : an interface to maintain and report game record
+TicTacToeInformation : an implementation of the GameInformation interface for the TTT game.
+OrderAndChaosInformation : an implementation of the GameInformation interface for the OAC game.
