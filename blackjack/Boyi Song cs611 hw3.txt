@@ -1,0 +1,11 @@
+Boyi Song
+songboyi@bu.edu
+U55680925
+Main : to call the game host(a java class) to control the procedure of the game.
+GameHost : A class to start the game, spin and push forward the game.
+                   You can change the player number after each game.
+Checker : a class mainly for checking if anyone wins or if the input is valid.
+player : representing the game player who has wager, hand and the onwership between hands and players, note that one player may have multiple hands due to split operation
+Dealer : a kind of player with no wager and with one balance number which records the accumulating result of the game
+Card : the attributes of one card. It has one attribute to indicate if it's still in the deck or is picked by someone 
+Deck : a deck of cards without jokers, can get a card randomly without repeat
