@@ -1,0 +1,12 @@
+---
+:id: 54726979
+:submitters:
+- :name: Boyi Song
+  :email: songboyi@bu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-11-11 14:47:10.567938000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-11-11 06:47:10.567938000 Z
+:status: processed
+:score: 83.5
